@@ -35,10 +35,6 @@ git clone https://github.com/celestiaorg/networks.git
 CELESTIA_NODENAME="MY_NODE" 
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
-
-ط§ط·ظ„ط§ط¹ط§طھ  ط¯ط§ط®ظ„ "" ط±ظˆ ظ¾ط§ع© ع©ظ†غŒط¯(ظپظ‚ط· ط®ط· ط§ظˆظ„ ظˆ ط¯ظˆظ…) ظˆ ط§ط·ظ„ط§ط¹ط§طھ ط®ظˆط¯طھظˆظ† ط±ظˆ ظ‚ط±ط§ط± ط¨ط¯غŒط¯
-ط¨ظ‡ ط¹ظ†ظˆط§ظ† ظ…ط«ط§ظ„ :
-
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
 CELESTIA_CHAIN="mamaki"
